@@ -1,5 +1,7 @@
-# Easier Headless Testing
-An attempt to get headless testing up and in running in today's ever-modernizing landscape.
+# Headless Testing Helpers
+An attempt to outline getting headless testing up and in running as quick, easy, and effectively in today's ever-modernizing landscape.
+
+As of right now I am doing a Landscape Review and will try to choose ONE set of tools and methods to write up. 
 
 # Landscape Review
 ## Small but big reason I made this repo...
@@ -15,9 +17,7 @@ An attempt to get headless testing up and in running in today's ever-modernizing
 
 [CasperJS](http://casperjs.org ) - CasperJS is a browser navigation scripting & testing utility written in Javascript for PhantomJS or SlimerJS.
 
-### Unanswered
-#### Do utilities for record and playback exist? If not what needs to happen?
-Investigating: https://github.com/bobsawey/test-recorder
+[Ghost Inspecter](https://ghostinspector.com/) - Painlessly Record Tests in Your Browser
 
 ### Comprehensive
 [HTMLUnitDriver & PhantomJS for Selenium Headless Testing](https://www.guru99.com/selenium-with-htmlunit-driver-phantomjs.html)
