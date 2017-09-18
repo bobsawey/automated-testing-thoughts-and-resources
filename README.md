@@ -1,7 +1,7 @@
 # Headless Testing Helpers
 An attempt to outline getting headless testing up and in running as quick, easy, and effectively in today's ever-modernizing landscape.
 
-As of right now I am doing a Landscape Review and will try to choose ONE set of tools and methods to write up. 
+As of right now I am doing a Landscape Review and will try to choose ONE set of tools and methods to write up. I'm currently leaning toward Ghost Inspector w/ Selenium.
 
 # Landscape Review
 ## Small but big reason I made this repo...
