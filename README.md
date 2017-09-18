@@ -11,5 +11,7 @@ An attempt to get headless testing up and in running in today's ever-modernizing
 ### Utilities
 [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
+#### Do utilities for record and playback exist? If not what needs to happen?
+
 ### Comprehensive
 [HTMLUnitDriver & PhantomJS for Selenium Headless Testing](https://www.guru99.com/selenium-with-htmlunit-driver-phantomjs.html)
