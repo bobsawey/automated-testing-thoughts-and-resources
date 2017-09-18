@@ -8,7 +8,7 @@ An attempt to get headless testing up and in running in today's ever-modernizing
 ## Resources.
 [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD -- Headless Chrome is shaking up traditional approaches to test automation](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907)
 
-###Utilities
+### Utilities
 [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ### Comprehensive
