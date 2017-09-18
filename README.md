@@ -15,6 +15,7 @@ An attempt to get headless testing up and in running in today's ever-modernizing
 
 [CasperJS](http://casperjs.org ) - CasperJS is a browser navigation scripting & testing utility written in Javascript for PhantomJS or SlimerJS.
 
+### Unanswered
 #### Do utilities for record and playback exist? If not what needs to happen?
 Investigating: https://github.com/bobsawey/test-recorder
 
