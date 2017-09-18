@@ -1,5 +1,5 @@
 # Easier Headless Testing
-An attempt to get headless testing up and in running in today's ever-modernizing landscape omg seriously why is selenium a hard thing now.
+An attempt to get headless testing up and in running in today's ever-modernizing landscape
 
 #Landscape
 ## Small but big reason I made this repo...
@@ -8,4 +8,8 @@ An attempt to get headless testing up and in running in today's ever-modernizing
 ## Resources.
 [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD -- Headless Chrome is shaking up traditional approaches to test automation](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907)
 
+###Utilities
 [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+### Comprehensive
+[HTMLUnitDriver & PhantomJS for Selenium Headless Testing](https://www.guru99.com/selenium-with-htmlunit-driver-phantomjs.html)
