@@ -3,7 +3,10 @@ An attempt to outline getting headless testing up and in running as quick, easy,
 
 As of right now I am doing a Landscape Review and will try to choose ONE set of tools and methods to write up. I'm currently leaning toward Ghost Inspector w/ Selenium.
 
-I am specifically currently testing to see if [tools can correctly convert exports](https://github.com/flyingfisher/selenium-html-js-converter) from Ghost Inspector to useable local code -- here is one I'm looking at now. https://github.com/flyingfisher/selenium-html-js-converter
+#### This is appears to help me do things the way I want:
+https://ghostinspector.com/docs/selenium-import-export/
+
+I'll try to set up a demo with Selenium Builder soonish. 
 
 # Landscape Review
 ## Small but big reason I made this repo...
