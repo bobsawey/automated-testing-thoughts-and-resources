@@ -1,5 +1,5 @@
 # Easier Headless Testing
-An attempt to get headless testing up and in running in today's ever-modernizing landscape
+An attempt to get headless testing up and in running in today's ever-modernizing landscape.
 
 #Landscape
 ## Small but big reason I made this repo...
