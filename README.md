@@ -6,7 +6,8 @@ As of right now I am doing a Landscape Review and will try to choose ONE set of 
 #### This is appears to help me do things the way I want:
 https://ghostinspector.com/docs/selenium-import-export/
 
-I'll try to set up a demo with Selenium Builder soonish. 
+I'll try to set up a demo with Selenium Builder ~~soonish. ~~. probably never.
+
 
 # Landscape Review
 ## Small but big reason I made this repo...
